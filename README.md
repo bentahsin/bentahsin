@@ -35,6 +35,9 @@ Yazılım geliştirmeyi, sadece anlık sorunları çözmekten öte, gelecekteki 
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="fastify" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
     <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original-wordmark.svg" alt="cmake" width="50" height="50"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="svelte" width="50" height="50"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="ejs" width="50" height="50"/></a>
