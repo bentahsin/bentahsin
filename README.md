@@ -61,11 +61,11 @@ Yazılım geliştirmeyi, sadece anlık sorunları çözmekten öte, gelecekteki 
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bentahsin&show_icons=true&locale=tr&theme=apprentice&rank_icon=github" alt="bentahsin" />
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bentahsin&show_icons=true&locale=tr&layout=compact&theme=apprentice" alt="bentahsin" />
+  <img src="https://my-github-stats-bentahsin.vercel.app/api?username=bentahsin&type=stats" alt="tahsin stats" />
 </p>
-<br>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bentahsin&theme=apprentice" alt="GitHub Streak" /></a>
+  <img src="https://my-github-stats-bentahsin.vercel.app/api?username=bentahsin&type=streak" alt="bentahsin streaks" />
+</p>
+<p align="center">
+  <img src="https://my-github-stats-bentahsin.vercel.app/api?username=bentahsin&type=langs" alt="bentahsin languages" />
 </p>
