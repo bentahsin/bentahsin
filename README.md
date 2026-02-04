@@ -13,9 +13,17 @@
 
 ### About Me
 
+<img src="https://visage.surgeplay.com/bust/128/thswen" alt="Minecraft Skin" align="left" width="100" />
 I'm a Junior Backend Developer constantly improving my TS/JS, Java and C++ skills. I love applying what I learn by developing real-world tools, websites, and plugins for the Minecraft ecosystem.
 
-- You can reach me via Discord: **@bentahsin**
+<p align="left">
+  <a href="https://discord.com/users/786122687218581555" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:tahsin@bentahsin.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <br>
 
