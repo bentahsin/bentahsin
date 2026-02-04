@@ -39,6 +39,13 @@ I'm a Junior Backend Developer constantly improving my TS/JS, Java and C++ skill
 
 ---
 
+### Recent Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bentahsin&theme=github-compact&hide_border=true" width="100%" />
+
+
+---
+
 ### Statistics
 
 <p align="center">
