@@ -52,7 +52,7 @@ I'm a Junior Backend Developer constantly improving my TS/JS, Java and C++ skill
   <img src="https://git-stats-xi-one.vercel.app/api?username=bentahsin&type=stats&v=1" alt="bentahsin stats" />
 </p>
 <p align="center">
-  <img src="https://git-stats-xi-one.vercel.app/api?username=bentahsin&type=streak&v=3" alt="bentahsin streaks" />
+  <img src="https://git-stats-xi-one.vercel.app/api?username=bentahsin&type=streak&v=4" alt="bentahsin streaks" />
 </p>
 <p align="center">
   <img src="https://git-stats-xi-one.vercel.app/api?username=bentahsin&type=langs&v=1" alt="bentahsin languages" />
